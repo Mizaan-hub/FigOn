@@ -3,6 +3,8 @@ import { Room } from "./Room";
 
 export default function Page() {
   return (
-      <h1 className="text-5xl text-white">Fig On</h1>
+    <div className="h-[100vh] w-full flex justify-center items-center text-center">
+      <h1 className="text-2xl text-white">Fig On</h1>
+    </div>
   );
 }
