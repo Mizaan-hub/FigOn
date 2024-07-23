@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import LiveCursor from "./cursor/LiveCursor";
 
 const Live = () => {
   return (
-    <div>Live</div>
-  )
-}
+    <div>
+      <LiveCursor />
+    </div>
+  );
+};
 
-export default Live
+export default Live;
