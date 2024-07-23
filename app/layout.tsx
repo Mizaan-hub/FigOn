@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Fig On",
   description: "A Collaborative UI/UX Development App",
   icons:{
-    icon: "/f-logo-design-png-24.png", //"/public/f-logo-design-png-24.png"
+    icon: "/icon.png", //"/public/icon.png"
   }
 };
 
